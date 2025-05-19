@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keashyn Naidoo</h1>
-<h3 align="center">Cybersecurity Analyst | Software Developer | Master's Student at UTSA</h3>
+<h3 align="center">Cybersecurity | Software Engineer | IT  Graduate </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keashyn-naidoo-7a412b227/" target="_blank">
@@ -17,7 +17,7 @@
 
 🔐 **About Me**
 
-I'm a cybersecurity enthusiast and software developer passionate about protecting digital systems and building meaningful technology. With a diverse international background and a strong academic foundation—including two bachelor's degrees in IT and cybersecurity and a diploma in higher education majorining in information technology  and an ongoing Master's in Cybersecurity Science—I thrive on solving problems at the intersection of security and software.
+I'm a cybersecurity enthusiast and software developer passionate about protecting digital systems and building meaningful technology. With a diverse international background and a strong academic foundation—including two bachelor's degrees in IT and cybersecurity and a diploma in higher education majorining in information technology from James Cook University Sinagpore Campus and i have also completed Master's of Science in Cybersecurity Science from Univeristy of Texas at San Antonio in May 2025, I thrive on solving problems at the intersection of security and software.
 
 ---
 🛠 **Tech Stack**
