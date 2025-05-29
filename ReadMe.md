@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity | Software Engineer | IT  Graduate </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/keashyn-naidoo-7a412b227/" target="_blank">
+  <a href="https://www.linkedin.com/in/keashyn-naidoo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Keashyn" target="_blank">
