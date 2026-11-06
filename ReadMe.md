@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keashyn Naidoo</h1>
-<h3 align="center">Cybersecurity | Software Engineer | IT  Graduate </h3>
+<h3 align="center">Cybersecurity | Software Engineer | IT </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keashyn-naidoo/" target="_blank">
